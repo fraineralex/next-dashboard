@@ -23,7 +23,7 @@ This is a full-stack web application built with the Next.js App Router to create
 </a> &#xa0; &#xa0;
 
 <a href="https://tailwind.org">
-  <img width="50" title="Tailwind" alt="Tailwind Logo" src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667">
+  <img width="50" title="Tailwind" alt="Tailwind Logo" src="https://camo.githubusercontent.com/0568e2de313626b2bd9b96f326941b012d45e9a4db1a23aa78bd8036207e57f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667">
 </a> &#xa0; &#xa0;
 
 ###
